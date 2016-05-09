@@ -1,0 +1,3 @@
+#!/bin/bash
+
+host -t a "slash16.org" | awk -F " " '{print $4;}'

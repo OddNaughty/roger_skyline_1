@@ -1,0 +1,3 @@
+http://serverfault.com/questions/478534/how-is-dns-lookup-configured-for-osx-mountain-lion
+
+Alors si on suit ce que ca dit, ca a d'abord regarder dans /etc/hosts pour savoir si y'a un serveur DNS, sinon ca va aller chercher dans /etc/resolv.conf :).
